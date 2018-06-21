@@ -16,4 +16,4 @@ spring:
   application:
     name: product
 env:
-  haha2222
+  haha
